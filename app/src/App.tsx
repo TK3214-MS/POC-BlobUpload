@@ -124,7 +124,7 @@ function App() {
         <Box m={4}>
           {/* App Title */}
           <Typography variant="h4" gutterBottom>
-            Blob のアップロードサンプル
+            Azure Blob Storage へのアップロードサンプル
           </Typography>
           {/*<Typography variant="h5" gutterBottom>
             with SAS token
