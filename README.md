@@ -26,6 +26,7 @@
 1. /api ディレクトリに local.settings.json ファイルを作成し内容を貼り付け、以下環境値を入力します。
 
     | プロパティ | 値 | 説明 |
+    | --- | --- | --- | --- |
     | Azure_Storage_AccountName | Azure Storage Account 名 | ストレージリソースへの接続に利用 |
     | Azure_Storage_AccountKey	| Azure Storage Account のキー | ストレージリソースへの接続に利用 |
     | AzureWebJobsStorage | Azure Storage Account の接続文字列 | Azure Function ランタイムのステートとログ保管用 |
